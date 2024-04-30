@@ -2,7 +2,7 @@
 
 For the final project for SoftDes, our group decided to create a tower defense game in the theme of Clash of Clans. In our game, you can place towers such as the archer tower, the wizard tower, and the inferno tower to defeat enemies like barbarians, goblins and giants. A screenshot of the gameplay can be seen below:
 
-![Game image](/tower-defense-gameplay.png)
+![Game image local](/tower-defense-gameplay.png)
 
 ## In-Game Strategy
 
