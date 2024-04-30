@@ -17,6 +17,6 @@ To play our game, please follow the following steps:
 
 ## Credits
 
-Hope you enjoyed learning more about our game! The game was created by Jefferson Wu, Sam, and Minu.
+Hope you enjoyed learning more about our game! The game was created by [Jefferson Wu](https://github.com/JeffersonWu25) , [Sam Wisnoski]([https://github.com/JeffersonWu25](https://github.com/swisnoski), and [Minu Rajasinghe](https://github.com/minurajasinghe).
 
 Much of the inspiration for our game and the graphic elements of the towers and enemies can be attributed the SUPERCELL the creators of Clash of Clans. For more information on their game, please visit supercell.com.
