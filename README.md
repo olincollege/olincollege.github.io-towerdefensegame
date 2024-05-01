@@ -6,7 +6,7 @@ For the final project for SoftDes, our group decided to create a tower defense g
 
 ## In-Game Strategy
 
-When we created our tower defense game, we wanted to add some elements of strategy so it would be more entertaining to play. At the start of the game, the user is given 100 in currency to spend on placing towers on the map. Towers like the wizard tower, and the inferno tower have special abilities like multi-target and lasting damage, but they also cost more currency, so the user has to be strategic regarding which towers to place each round. Each time the user kills an enemy, they are rewarded with some currency that can be used to buy more towers. The game ends when the user either wins by clearing all 3 waves or looses by lets too many enemies reach the end of the path.
+When we created our tower defense game, we wanted to add some elements of strategy so it would be more entertaining to play. At the start of the game, the user is given 100 in currency to spend on placing towers on the map. Towers like the wizard tower, and the inferno tower have special abilities like multi-target and lasting damage, but they also cost more currency, so the user has to be strategic regarding which towers to place each round. Each time the user kills an enemy, they are rewarded with some currency that can be used to buy more towers. The game ends when the user either wins by clearing all 5 waves or loses by lets too many enemies reach the end of the path.
 
 ### Game Functions and Design
 
@@ -14,7 +14,7 @@ Our game includes 4 distinct screens: the start screen, the gameplay screen, the
 
 ![Game start screen](/start_screen.png)
 
-Once the user pressed start, gameplay begins! The enemies start spawning immediately and users can use their in-game money to buy towers to defeat the enemies before the reach the end of the map. Defeating enemies gain more currency that can be used to buy or upgrade towers. These functions can be seen on the right-side menu of the game screen. Place towers by clicking the buy tower buttons and then clicking on an open stump to place it on. 
+Once the user pressed start, gameplay begins! The enemies start spawning immediately and users can use their in-game money to buy towers to defeat the enemies before the reach the end of the map. Defeating enemies gain more currency that can be used to buy or upgrade towers. These functions can be seen on the right-side menu of the game screen. Place towers by clicking the buy tower buttons and then clicking on an open stump to place it on. Upgrade towers by clicking the upgrade button and clicking on an existing tower on the map. Upgrading costs 100 currencty. Towers can also be sold for full price.
 
 ![Gameplay start](/gameplay_start.png)
 
