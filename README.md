@@ -26,6 +26,10 @@ Pass all five waves and you win!
 
 ![you win](/you_win.png)
 
+## Video Presentation
+
+For a full video presentation of our game please click [here](https://www.youtube.com/watch?v=XKhHMn6yVh0)
+
 ## Installation
 
 To play our game, please follow the following steps:
@@ -39,4 +43,4 @@ Hope you enjoyed learning more about our game! The game was created by [Jefferso
 
 Much of the inspiration for our game and the graphic elements of the towers and enemies can be attributed to SUPERCELL, the creators of Clash of Clans. For more information on their game, please visit [supercell.com](https://supercell.com/en/).
 
-All images were retrieved from the [clash of clans wiki](https://clashofclans.fandom.com/wiki/Clash_of_Clans_Wiki)
+All images were retrieved from the [Clash of Clans wiki](https://clashofclans.fandom.com/wiki/Clash_of_Clans_Wiki)
