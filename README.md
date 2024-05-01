@@ -2,11 +2,11 @@
 
 For the final project for SoftDes, our group decided to create a tower defense game in the theme of Clash of Clans. In our game, you can place towers such as the archer tower, the wizard tower, and the inferno tower to defeat enemies like barbarians, goblins and giants. Our goal was to create a game had strategy involved and challenged the user. A screenshot of the gameplay can be seen below:
 
-![Game image local](/tower-defense-gameplay.png)
+![Game image local](/gameplay.png)
 
 ## In-Game Strategy
 
-When we created our tower defense game, we wanted to add some elements of strategy so it would be more entertaining to play. At the start of the game, the user is given 100 in currency to spend on placing towers on the map. Towers like the wizard tower, and the inferno tower have special abilities like multi-target and lasting damage, but they also cost more currency, so the user has to be strategic regarding which towers to place each round. Each time the user kills an enemy, they are rewarded with some currency that can be used to buy more towers. The game ends when the user either wins by clearing all 5 waves or loses by lets too many enemies reach the end of the path.
+When we created our tower defense game, we wanted to add some elements of strategy so it would be more entertaining to play. At the start of the game, the user is given 200 in currency to spend on placing towers on the map. Towers like the wizard tower, and the inferno tower have special abilities like multi-target and lasting damage, but they also cost more currency, so the user has to be strategic regarding which towers to place each round. Each time the user kills an enemy, they are rewarded with some currency that can be used to buy more towers. The game ends when the user either wins by clearing all 5 waves or loses by lets too many enemies reach the end of the path.
 
 ### Game Functions and Design
 
