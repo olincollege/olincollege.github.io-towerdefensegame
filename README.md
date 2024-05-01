@@ -12,19 +12,19 @@ When we created our tower defense game, we wanted to add some elements of strate
 
 Our game includes 4 distinct screens: the start screen, the gameplay screen, the game over screen, and the win screen.
 
-![Game start screen](/tower-defense-gameplay.png)
+![Game start screen](/start_screen.png)
 
 Once the user pressed start, gameplay begins! The enemies start spawning immediately and users can use their in-game money to buy towers to defeat the enemies before the reach the end of the map. Defeating enemies gain more currency that can be used to buy or upgrade towers. These functions can be seen on the right-side menu of the game screen. Place towers by clicking the buy tower buttons and then clicking on an open stump to place it on. 
 
-![Game start screen](/tower-defense-gameplay.png)
+![Gameplay start](/gameplay_start.png)
 
 If you let 10 enemies reach the end of the map, the game ends and you lose.
 
-![Game start screen](/tower-defense-gameplay.png)
+![game over](/game_over.png)
 
 Pass all five waves and you win!
 
-![Game start screen](/tower-defense-gameplay.png)
+![you win](/you_win.png)
 
 ## Installation
 
